@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kauffmanandre/topo-floorplan#readme",
   "dependencies": {
-    "leaflet": "^1.6.0"
+    "leaflet": "^1.6.0",
+    "turf": "^3.0.14"
   }
 }
