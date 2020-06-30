@@ -1,0 +1,22 @@
+{
+  "name": "topo-floorplan",
+  "version": "1.0.0",
+  "description": "playground for floorplan topology analysis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kauffmanandre/topo-floorplan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kauffmanandre/topo-floorplan/issues"
+  },
+  "homepage": "https://github.com/kauffmanandre/topo-floorplan#readme",
+  "dependencies": {
+    "leaflet": "^1.6.0"
+  }
+}
